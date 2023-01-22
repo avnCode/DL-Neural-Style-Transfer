@@ -13,7 +13,8 @@ Input Content Image and Input Style Image:
 ![download](https://user-images.githubusercontent.com/111170719/213918515-556f63fc-12e3-49c6-a1a7-7071cab66f7e.png)
 
 Output and Input Content Image:
-![download](https://user-images.githubusercontent.com/111170719/213918533-01677c4a-1aca-4a40-a08f-48baa8632fbc.png)
+![download (1)](https://user-images.githubusercontent.com/111170719/213918584-c976b629-901f-42c0-99e2-05d78edd35ed.png)
+
 
 
 Output Image:
@@ -21,7 +22,8 @@ Output Image:
 ![output_NST](https://user-images.githubusercontent.com/111170719/213918337-2f473764-a1fd-4a55-8e9a-bc99d853091b.jpg)
 
 
-.........................................................................................................................
+.......................................................................................................................................................................
+
 Input Content Image:
 
 ![test_image](https://user-images.githubusercontent.com/111170719/213918310-af677a4b-56ce-41e1-ab3a-6d8eb0b544ce.jpg)
