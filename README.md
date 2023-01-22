@@ -10,6 +10,8 @@ See for yourself.
 So here,
 I have implementing Neural Style Transfer using Pytorch.
 
+  <br />
+    <br />
 <h1 align="center">Input Content Image and Input Style Image:
   <br />
   
