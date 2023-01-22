@@ -12,7 +12,7 @@ I have implementing Neural Style Transfer using Pytorch.
 
 <h1 align="center">Input Content Image and Input Style Image:
   <br />
-  </h1>
+  
 ![download](https://user-images.githubusercontent.com/111170719/213918515-556f63fc-12e3-49c6-a1a7-7071cab66f7e.png)
   
 </h1>
