@@ -18,7 +18,9 @@ I have implementing Neural Style Transfer using Pytorch.
 
 
 
-<h1 align="center">OUTPUT</h1>
-
+<h1 align="center">OUTPUT
+  
 ![output_NST](https://user-images.githubusercontent.com/111170719/213918337-2f473764-a1fd-4a55-8e9a-bc99d853091b.jpg)
+
+</h1>
 
