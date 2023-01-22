@@ -12,6 +12,7 @@ I have implementing Neural Style Transfer using Pytorch.
 
   <br />
     <br />
+    <br />
 <h1 align="center">Input Content Image and Input Style Image:
   <br />
   
@@ -19,6 +20,9 @@ I have implementing Neural Style Transfer using Pytorch.
   
 </h1>
 
+  <br />
+    <br />
+      
 <h1 align="center">Output and Input Content Image:
   
   <br />
