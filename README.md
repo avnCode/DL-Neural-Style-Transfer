@@ -1,7 +1,6 @@
 # Neural-Style-Transfer
 
 Neural Style Transfer is one of the latest and most fascinating Deep Learning based application,  
-
 in which we transfer style of one image to the content of another image using deep learning based on VGG19 architecture.
 The result is a new image that combines the content of one image with the style of another.
 
