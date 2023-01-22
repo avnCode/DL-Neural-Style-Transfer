@@ -8,8 +8,8 @@ The result is a new image that combines the content of one image with the style 
 So here,
 I have implementing Neural Style Transfer using Pytorch.
 
-    <br />
-    <br />
+<br />
+<br />
 <h1 align="center">Input Content Image and Input Style Image:
   <br />
     <br />
