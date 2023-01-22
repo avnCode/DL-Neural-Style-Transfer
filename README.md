@@ -10,12 +10,17 @@ See for yourself.
 So here,
 I have implementing Neural Style Transfer using Pytorch.
 
-<h1 align="center">Input Content Image and Input Style Image:<br />
+<h1 align="center">Input Content Image and Input Style Image:
+  <br />
+  
 ![download](https://user-images.githubusercontent.com/111170719/213918515-556f63fc-12e3-49c6-a1a7-7071cab66f7e.png)
+  
 </h1>
 <h1 align="center">Output and Input Content Image:
+  
   <br />
-![download (1)](https://user-images.githubusercontent.com/111170719/213918584-c976b629-901f-42c0-99e2-05d78edd35ed.png)
+
+  ![download (1)](https://user-images.githubusercontent.com/111170719/213918584-c976b629-901f-42c0-99e2-05d78edd35ed.png)
 
 </h1>
 
