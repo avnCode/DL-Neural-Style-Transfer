@@ -4,7 +4,10 @@ Neural Style Transfer is one of the latest and most fascinating Deep Learning ba
 in which we transfer style of one image to the content of another image using deep learning based on VGG19 architecture.
 The result is a new image that combines the content of one image with the style of another.
 See for yourself.
-Comparision Between 
+
+Output and Input Image:
+![target_copy](https://user-images.githubusercontent.com/111170719/213918388-aa2e2203-0421-40b4-aa04-3273fa16b3d9.png)
+
 
 So here,
 I have implementing Neural Style Transfer using Pytorch.
