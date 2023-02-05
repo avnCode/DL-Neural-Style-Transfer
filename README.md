@@ -21,7 +21,7 @@ I have implementing Neural Style Transfer using Pytorch.
   <br />
     <br />
       
-<h1 align="center">Output and Input Content Image:
+<h1 align="center">Input Content Image and Output Image:
     <br />
   <br />
 
