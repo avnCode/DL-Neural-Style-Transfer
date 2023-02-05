@@ -6,7 +6,7 @@ The result is a new image that combines the content of one image with the style 
 
 
 So here,
-I have implementing Neural Style Transfer using Pytorch.
+I have implemented Neural Style Transfer using Pytorch.
 
 <br />
 <br />
